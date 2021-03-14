@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 * 💁🏻I share my Insights, Tricks, and Tips on iOS development on my Instagram.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twentyone24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Reach me via 👇🏻
 
