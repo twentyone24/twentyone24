@@ -23,6 +23,6 @@
 [![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/twentyone24.dev)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twentyone24)
 
-![](https://komarev.com/ghpvc/?username=twentyone24&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=twentyone24&color=blueviolet&style=flat-square)
 
 
