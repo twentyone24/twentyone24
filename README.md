@@ -10,11 +10,23 @@
 
 * ♥️ code, wine & everything fine
 
+![](https://komarev.com/ghpvc/?username=twentyone24&color=blueviolet&style=flat-square)
 
-![TwentyOne24's GitHub stats](https://github-readme-stats.vercel.app/api/?username=twentyone24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/?username=twentyone24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="TwentyOne24's GitHub stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twentyone24&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/twentyone24/github-readme-streak-stats" alt="TwentyOne24's GitHub Streak" />
+    </td>
+   </tr>
+</table>
 
-
-[![TwentyOne24's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twentyone24&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/twentyone24/github-readme-streak-stats)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dheerajghub&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dheerajghub&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
+</p>
 
 ## 🤝 Connect
 
@@ -22,6 +34,6 @@
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/navemics)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twentyone24)
 
-![](https://komarev.com/ghpvc/?username=twentyone24&color=blueviolet&style=flat-square)
+
 
 
