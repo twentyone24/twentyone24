@@ -8,7 +8,7 @@
 
 * 💻 One line of code at a time
 
-* ♥️ code, wine & everything fine
+* ♥️ code, wine & everything fine.
 
 ![](https://komarev.com/ghpvc/?username=twentyone24&color=blueviolet&style=flat-square)
 
