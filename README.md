@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=twentyone24&theme=redical&hide_border=true" width="100%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=twentyone24&theme=nord&column=6&margin-w=10" alt="logo" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=twentyone24&theme=nord&column=7&row=1&margin-w=10" alt="logo" height="170" />
 </p>
 
 ## 🤝 Connect
