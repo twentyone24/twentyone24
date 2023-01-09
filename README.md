@@ -1,14 +1,4 @@
 
-## About Me 😁
-* 📱 iOS Developer / Freelancer
-
-* ✨ UI / UX Enthusiast
-
-* 📖 Open-Source Contributor
-
-* 💻 One line of code at a time
-
-* ♥️ code, wine & everything fine.
 
 ![](https://komarev.com/ghpvc/?username=twentyone24&color=blueviolet&style=flat-square)
 
