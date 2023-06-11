@@ -13,11 +13,6 @@
    </tr>
 </table>
 
-<p align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=twentyone24&theme=nord&column=8&row=1&margin-w=8" alt="logo" height="170" />
-</p>
-
 ## 🤝 Connect
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navemics/)
