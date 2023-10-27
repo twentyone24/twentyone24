@@ -1,5 +1,3 @@
-˜cru
-
 ![](https://komarev.com/ghpvc/?username=twentyone24&color=blueviolet&style=flat-square)
 
 <table cellpadding="0.1" cellspacing="0.1" border="0.1" style="border:none;">
